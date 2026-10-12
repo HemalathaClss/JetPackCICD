@@ -14,7 +14,7 @@ appcompat = "1.7.1"
 activityVersion = "1.13.0"
 constraintlayout = "2.2.1"
 googleServices = "4.5.0"
-firebaseBom = "35.0.0"
+firebaseBom = "33.7.0"
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
